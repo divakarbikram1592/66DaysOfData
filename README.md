@@ -23,3 +23,5 @@ Repo to store code for #66DaysOfData challenge.
 ### Dimensionality Reduction using sklearn
 ## Day 12
 ### Filter and Feature map visualization for CNNs
+## Day 13
+### Model subclassing using Keras
