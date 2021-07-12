@@ -25,3 +25,5 @@ Repo to store code for #66DaysOfData challenge.
 ### Filter and Feature map visualization for CNNs
 ## Day 13
 ### Model subclassing using Keras
+## Day 14
+### Face and Eye detection using OpenCV
