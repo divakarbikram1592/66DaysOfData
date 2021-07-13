@@ -27,3 +27,5 @@ Repo to store code for #66DaysOfData challenge.
 ### Model subclassing using Keras
 ## Day 14
 ### Face and Eye detection using OpenCV
+## Day 15
+### Contour detection using OpenCV
