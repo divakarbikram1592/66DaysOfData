@@ -29,3 +29,7 @@ Repo to store code for #66DaysOfData challenge.
 ### Face and Eye detection using OpenCV
 ## Day 15
 ### Contour detection using OpenCV
+## Day 16
+### Kernel Density Estimation
+## Day 17
+### Image Segmentation using KMeans
