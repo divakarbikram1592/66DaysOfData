@@ -33,3 +33,11 @@ Repo to store code for #66DaysOfData challenge.
 ### Kernel Density Estimation
 ## Day 17
 ### Image Segmentation using KMeans
+## Day 18
+### Deep Convolutional Generative Adversarial Network on MNIST dataset
+## Day 19
+### Hierarchical Agglomerative Clustering
+## Day 20
+### Feature Scaling using sklearn
+## Day 21
+### Silhouette analysis for KMeans clusters
