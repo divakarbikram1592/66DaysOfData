@@ -41,3 +41,5 @@ Repo to store code for #66DaysOfData challenge.
 ### Feature Scaling using sklearn
 ## Day 21
 ### Silhouette analysis for KMeans clusters
+## Day 22
+### Color Correction using Histogram Manipulation
