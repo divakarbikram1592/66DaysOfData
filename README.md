@@ -43,3 +43,5 @@ Repo to store code for #66DaysOfData challenge.
 ### Silhouette analysis for KMeans clusters
 ## Day 22
 ### Color Correction using Histogram Manipulation
+## Day 23
+### High Pass and Low Pass filter using Fast Fourier transform
